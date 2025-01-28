@@ -1,4 +1,4 @@
-# Projeto1 - Datawarehouse Northwind
+# Projeto - Datawarehouse Northwind
 
 >Resolução de problemas de negócio simulados e soluções de requisições utilizando Datawarehouse AWS Redshift, AWS S3 e BD Relacional.
 
